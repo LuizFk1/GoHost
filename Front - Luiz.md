@@ -23,4 +23,10 @@ Menu de Configuração
 ![image](https://github.com/user-attachments/assets/8a882bb2-841b-4c44-8703-bf71f4f92ae6)
 
 
+Barra de Pesquisa
+
+![image](https://github.com/user-attachments/assets/c98fe2e8-4491-4b8d-b899-003d577641e8)
+
+
+
 
