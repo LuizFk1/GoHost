@@ -28,5 +28,21 @@ Barra de Pesquisa
 ![image](https://github.com/user-attachments/assets/c98fe2e8-4491-4b8d-b899-003d577641e8)
 
 
+Barra de Pesquisa/Opção de Locazição
+
+![image](https://github.com/user-attachments/assets/de90c7c3-c491-4710-9db7-0e6fc4291219)
+
+
+
+Barra de Pesquisa/Opção de mapa
+
+![image](https://github.com/user-attachments/assets/e38a2a82-845d-4b71-b146-5d97b34876dd)
+
+
+
+Barra de Pesquisa/Opção Hospedes
+
+![image](https://github.com/user-attachments/assets/c98fe2e8-4491-4b8d-b899-003d577641e8)
+
 
 
