@@ -42,7 +42,8 @@ Barra de Pesquisa/Opção de mapa
 
 Barra de Pesquisa/Opção Hospedes
 
-![image](https://github.com/user-attachments/assets/c98fe2e8-4491-4b8d-b899-003d577641e8)
+![image](https://github.com/user-attachments/assets/a79756b0-8e4d-4775-aa29-1a925b2f976e)
+
 
 
 
