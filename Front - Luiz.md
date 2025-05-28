@@ -11,9 +11,15 @@ Menu com a Parte de Baixo do site
 ![image](https://github.com/user-attachments/assets/985c47e4-0ca6-422c-8514-5f0d3d8582c6)
 
 Pop-up do Perfil 
+
+
+
 ![image](https://github.com/user-attachments/assets/7d39f2cd-3f56-42eb-ae37-1cd7c5682bfb)
 
 Menu de Configuração 
+
+
+
 ![image](https://github.com/user-attachments/assets/8a882bb2-841b-4c44-8703-bf71f4f92ae6)
 
 
